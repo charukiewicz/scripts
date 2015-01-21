@@ -4,9 +4,11 @@
 #
 # I recommend added the following line to your ~/.bashrc file:
 #
-#	alias devmode="sh /home/christian/scripts/devmode.sh"
+#	alias devmode="sh ~/scripts/devmode.sh"
 #
-# Type `source ~/.bashrc` after editing the .bashrc file to reload it.
+# This assumes that this `scripts` repository has been cloned into your home directory
+#
+# Type `source ~/.bashrc` after editing the .bashrc file to reload it
 #
 # Usage:
 #	$ devmode on
