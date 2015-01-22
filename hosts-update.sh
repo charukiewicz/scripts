@@ -1,18 +1,5 @@
 #!/bin/bash
 
-#**********************************************************#
-#                                                          #
-# Disclaimer: this file is free to use for personal use    #
-# only. Furthermore it is NOT permitted to copy any of the #
-# contents or host on any other site without permission or #
-# meeting the full criteria of the below license terms.    #
-#                                                          #
-# This work is licensed under the Creative Commons         #
-# Attribution-NonCommercial-ShareAlike License.            #
-# http://creativecommons.org/licenses/by-nc-sa/4.0/        #
-#                                                          #
-#**********************************************************#
-#
 # Hosts file update script.  Written by Christian Charukiewicz.
 #
 # --------------- Updated: July-15-2014 ------------------
